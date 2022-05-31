@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Schwarzenburgstrasse 972,</p>
-    <p>3147 Mittelhaeusern,</p>
+    <p>Schwarzenburgstrasse 972</p>
+    <p>3147 Mittelhaeusern</p>
     <p>Bern, Switzerland</p>
 
 news: false  # includes a list of news items
