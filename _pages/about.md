@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: I believe in the idea of the union between our collective tribal past and the promise of an enlightened and conscientious technological future. Merging the rational with the romantic.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Schwarzenburgstrasse 972</p>
+    <p>Schwarzenburgstrasse 972,</p>
     <p>3147 Mittelhaeusern,</p>
     <p>Bern, Switzerland</p>
 
