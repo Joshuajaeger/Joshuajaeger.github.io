@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pantasia
-description: A bunch of beloved people, dreaming about mellow nights and misty days, try to build a new tiny world together, screw by screw, XLR cable by XLR cable 
+description: A bunch of beloved people, dreaming about mellow nights and misty days, try to build a new tiny world together, screw by screw, XLR cable by XLR cable.
 img: assets/img/GOPR1834.JPG
 importance: 1
 category: Noise
