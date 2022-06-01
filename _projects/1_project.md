@@ -4,7 +4,7 @@ title: Pantasia
 description: A bunch of beloved people, dreaming about mellow nights and misty days, try to build a new tiny world together, screw by screw, XLR cable by XLR cable 
 img: assets/img/GOPR1834.JPG
 importance: 1
-category: freedom
+category: Noise
 ---
 
 Every project has a beautiful feature showcase page.
@@ -16,7 +16,7 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/önssn-swrblönsn_63" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/önssn-swrblönsn_63.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/önssn-swrblönsn_40.jpg" title="" class="img-fluid rounded z-depth-1" %}
