@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I believe in the idea of the union between our collective tribal past and the promise of an enlightened and conscientious technological future. Merging the rational with the romantic.
+subtitle: 
 
 profile:
   align: right
@@ -16,6 +16,8 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I believe in the idea of the union between our collective tribal past and the promise of an enlightened and conscientious technological future. Merging the rational with the romantic.
+
 
 I am PhD student at the University of Bern and the Vrije Universiteit Amsterdam. I am fascinated by the field that lies at the intersection of Machine Learning and Clinical Psychology. In particular, I am interested in developing models to predict symptoms in addictive disorders. I aim to understand how addictions are constituted and what variables influence their trajectory. When I'm not working on that, I try to use space and time to create noise that is intended to build a sense of cohesion in those around me.
 
