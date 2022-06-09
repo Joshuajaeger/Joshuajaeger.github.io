@@ -6,8 +6,7 @@ description: University of Bern
 nav: true
 nav_order: 2
 ---
-**Alcohol use disorders, selected and innovative aspects of treatment**
-
+**Alcohol use disorders, selected and innovative aspects of treatment:**
 Conducted in collaboration with PD Dr. Maria Stein
 
 Alcohol use disorder (AUD) is one of the most common mental disorders, immensely affecting the quality of life of those affected and their families, and leading to significant societal costs. With substantial relapse rates despite specialized treatment programs, research and practice continue to seek innovative ways to improve therapeutic outcomes.
@@ -22,7 +21,6 @@ Modalities of the assessment: Students are asked to participate in the organizat
   **(2022)**
 
 **How to measure Addiction?**
-
 Addiction is a condition that changes and affects lives in a wide variety of areas.
 Quantifying the severity of this multifaceted impairment is difficult, but highly relevant for research as well as for day-to-day clinical practice.
 In a literature thesis, methods of how to measure addiction are to be elaborated.
@@ -31,7 +29,6 @@ The specific scope of the thesis can be elaborated bilaterally and should reflec
 The thesis can be written in German or English.
 
 **Predictors of Alcohol Use Disorder**
-
 Alcohol use disorder is a clinical condition that often accompanies patients throughout their lives.
 Predicting the development of symptoms is particularly difficult, as alcohol use disorders have a highly individual course.
 However, there are variables that have been suggested as predictors of AUD.
