@@ -35,8 +35,16 @@ The combination of visual smoothness and auditory truth is at the center and is 
     Waking Life, 2018
 </div>
 
-Hardness can be confused with gentleness and wakefulness with trance.
+Hardness can be confused with gentleness, and wakefulness with trance.
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/DSCF6564.JPG" title="Whats in my garden, 2017" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Whats in my garden, 2017
+</div>
 
 
 

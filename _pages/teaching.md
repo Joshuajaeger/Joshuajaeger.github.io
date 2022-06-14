@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 **Alcohol use disorders, selected and innovative aspects of treatment:**
+
 Conducted in collaboration with PD Dr. Maria Stein
 
 Alcohol use disorder (AUD) is one of the most common mental disorders, immensely affecting the quality of life of those affected and their families, and leading to significant societal costs. With substantial relapse rates despite specialized treatment programs, research and practice continue to seek innovative ways to improve therapeutic outcomes.
@@ -28,7 +29,7 @@ It is expected that the current state of research is reflected and presented in 
 The specific scope of the thesis can be elaborated bilaterally and should reflect the student's interests.
 The thesis can be written in German or English.
 
-**Predictors of Alcohol Use Disorder**
+**Predictors of Alcohol Use Disorder:**
 Alcohol use disorder is a clinical condition that often accompanies patients throughout their lives.
 Predicting the development of symptoms is particularly difficult, as alcohol use disorders have a highly individual course.
 However, there are variables that have been suggested as predictors of AUD.
@@ -39,15 +40,13 @@ The thesis can be written in German or English.
 
   **(2021)**
 
-**Machine Learning in the Field of Addiction Research.**
-
+**Machine Learning in the Field of Addiction Research:**
 Machine learning is an emerging and rapidly evolving data-driven method for exploring and predicting specific patterns and variables. It promises to provide new insights and more accurate predictions of disease progression in a research domain that is multicausal and multivariate, such as addiction research.
 
 The specific scope of the thesis may be developed bilaterally and should reflect the interests of the student.
 It is expected that the current state of research is reflected and presented in a literature thesis.
 
-**Recent methods and approaches to the treatment of substance use disorders.**
-
+**Recent methods and approaches to the treatment of substance use disorders:**
 Despite many established treatment options for substance use disorders, the risk of relapse remains high and recovery status is difficult to achieve for many patients. New methods and approaches to treating substance use disorders and supporting patients are therefore needed and in demand.
 
 The specific scope of the thesis can be elaborated bilaterally and should reflect the student's interests, e.g., regarding the type of treatment (pharmaceutical, behavioral approaches) or regarding substance-specific addiction (alcohol, opioids,...).
