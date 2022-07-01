@@ -8,5 +8,5 @@ nav_order: 2
 ---
 
 
-[download pdf]({{ site.url }}/assets/pdf/CV_Joshua_Jaeger.pdf) here.
+[Download pdf]({{ site.url }}/assets/pdf/CV_Joshua_Jaeger.pdf)
 <embed src="{{ site.url }}/assets/pdf/CV_Joshua_Jaeger.pdf" width="500" height="375" type="application/pdf"/>
