@@ -9,7 +9,7 @@ category: Noise
 
 **Album 01**
 
-{% include spotifySong.html id="7juH05uHRzq2vZBIHI5JMg" %}
+{% include spotifyAlbum.html id="7juH05uHRzq2vZBIHI5JMg" %}
 
 Release: 01/07/2022
 
