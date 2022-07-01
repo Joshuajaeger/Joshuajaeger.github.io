@@ -9,9 +9,10 @@ category: Noise
 
 **Album 01**
 
-{% include spotifyAlbum.html id="7juH05uHRzq2vZBIHI5JMg" %}
+{% include spotifyAlbum.html id="662qz7hJaw8ZM8bsxhj4l4?si" %}
 
 Release: 01/07/2022
+
 
 Track 01
 {% include embed-audio.html src="https://joshuajaeger.github.io/assets/audio/1.wav" %}
