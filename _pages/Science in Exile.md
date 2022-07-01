@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /science_in_exile/
-title: Science in Exile Declaration
+title: Science in Exile
 description: 
 nav: true
 nav_order: 7
