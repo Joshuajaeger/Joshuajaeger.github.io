@@ -8,6 +8,9 @@ category: Noise
 ---
 
 **Album 01**
+
+{% soundcloud favorites 6431392 %}
+
 Release: 01/07/2022
 
 Track 01
