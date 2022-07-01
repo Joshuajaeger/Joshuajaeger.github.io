@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Joshua
-middle_name: Efraim
+middle_name:
 last_name: Jaeger
 email: joshua.jaeger@unibe.ch
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -54,7 +54,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-joshuajaeger: Joshuajaeger # your GitHub user name
+joshuajaeger: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: Mirage83206513 # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -72,7 +72,6 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-I am happy about any form of intellectual and mental exchange and open for the rest.
 
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
