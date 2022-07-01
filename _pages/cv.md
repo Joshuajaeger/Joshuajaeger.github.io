@@ -1,8 +1,10 @@
 ---
-layout: cv
-permalink: /cv/
-title: cv
+layout: page
+permalink: /CV/
+title: CV
+description: Curriculum Vitae
 nav: true
-nav_order: 3
-cv_pdf: CV_Joshua_Jaeger.pdf
+nav_order: 2
 ---
+
+<embed src="https://joshuajaeger.github.io/CV_joshua_jaeger.pdf" type="application/pdf"/>

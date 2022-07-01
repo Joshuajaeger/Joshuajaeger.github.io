@@ -2,11 +2,10 @@
 layout: page
 permalink: /science_in_exile/
 title: Science in Exile Declaration
-description: University of Bern
+description: 
 nav: true
 nav_order: 2
 ---
-**The Science in Exile Declaration**
 [The Science in Exile Declaration: Supporting at-risk, displaced and refugee scientists—A call to action](https://www.interacademies.org/publication/science-exile-declaration-supporting-risk-displaced-and-refugee-scientists-call-action) outlines key commitments necessary at global level for both immediate and long-term support and protection to scholars and scientists who are at-risk, displaced or refugees, so as to build a better future for them, science and society at large.
 
 As part of the scientific community it seems obvious to support and actively welcome fellow scholars and scientists who are at-risk, displaced or refugees. 
