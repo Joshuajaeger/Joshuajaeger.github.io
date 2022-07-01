@@ -8,7 +8,7 @@ category: Noise
 ---
 
 
-{% include embed-audio.html src="assets/audio/1.wav" %}
+{% include embed-audio.html src="https://joshuajaeger.github.io/assets/audio/1.wav" %}
 
 
 
