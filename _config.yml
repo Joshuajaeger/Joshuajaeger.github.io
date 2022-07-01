@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Joshua
-middle_name:
+middle_name: Efraim
 last_name: Jaeger
 email: joshua.jaeger@unibe.ch
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -54,7 +54,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-joshuajaeger: # your GitHub user name
+joshuajaeger: Joshuajaeger # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: Mirage83206513 # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -72,6 +72,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
+I am happy about any form of intellectual and mental exchange and open for the rest.
 
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
@@ -83,25 +84,26 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-#blog_name: al-folio # blog_name will be displayed in your blog page
-#blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-#blog_description: a simple whitespace theme for academics
-#permalink: /blog/:year/:title/
+blog_name: News and things worth sharing # blog_name will be displayed in your blog page
+blog_nav_title: News # your blog must have a title for it to be displayed in the nav bar
+blog_description: About addiction research, machine learning, festivals, and music.
+permalink: /blog/:year/:title/
 
 # Pagination
-#pagination:
-#  enabled: true
+pagination:
+  enabled: true
 
 # Comments
-#disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: The void behind the door # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
-#external_sources:
-#  - name: medium.com
-#    rss_url: https://medium.com/@al-folio/feed
+## external_sources:
+##  - name: medium.com
+    rss_url: https://medium.com/@al-folio/feed
+## s://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
