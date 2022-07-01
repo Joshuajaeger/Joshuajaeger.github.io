@@ -13,6 +13,7 @@ If you would like to become active, you might consider [signing the declaration]
 As part of the scientific community it seems obvious to support and actively welcome fellow scholars and scientists who are at-risk, displaced, or refugees and I believe this is an important and necessery step. 
 However, it is important to note that this does not imply that this support may be reserved for this circle of people, but should be granted to all conscious beings. 
 
+
 **In reference to Aldous Huxley:**
 
 "I am almost embarrassed. But after all the decades of searching, after all the scientific, spiritual, and psychological paths I have encountered, after all the numerous great masters I have been privileged to meet, I have come to the following conclusion: The most powerful and beneficial practice is probably to encounter oneself, other human and conscious beings, and the entire universe in a benign way."

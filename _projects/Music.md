@@ -1,15 +1,14 @@
 ---
 layout: page
 title: Shady Flakes
-description: An attempt to create music
+description: Lo Fi beats for late night sessions
 img: assets/img/20210807_043745 (1).jpg
 importance: 1
 category: Noise
 ---
 
-**Lo Fi beats for late nights**
-
-Shady Flakes Album 01
+**Album 01**
+Release: 01/07/2022
 
 Track 01
 {% include embed-audio.html src="https://joshuajaeger.github.io/assets/audio/1.wav" %}
