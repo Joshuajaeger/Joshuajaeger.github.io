@@ -8,5 +8,5 @@ nav_order: 2
 ---
 
 
-You can [download pdf](https://joshuajaeger.github.io/assets/CV_Joshua_Jaeger.pdf) here.
-<embed src="https://joshuajaeger.github.io/assets/CV_Joshua_Jaeger.pdf" type="application/pdf"/>
+You can [download pdf]({{ site.url }}assets/CV_Joshua_Jaeger.pdf) here.
+<embed src="{{ site.url }}/assets/CV_Joshua_Jaeger.pdf" type="application/pdf"/>
