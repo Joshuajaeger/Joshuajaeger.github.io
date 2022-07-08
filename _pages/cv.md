@@ -6,5 +6,5 @@ description: Curriculum Vitae
 nav: true
 nav_order: 2
 ---
-[Download pdf]({{ site.url }}/assets/pdf/CV_Joshua_Jaeger.pdf)
-<embed src="{{ site.url }}/assets/pdf/CV_Joshua_Jaeger.pdf" width="700" height="975" type="application/pdf"/>
+[Download pdf](https://github.com/Joshuajaeger/joshuajaeger.github.io/tree/master/assets/pdf/CV_Joshua_Jaeger.pdf)
+<embed src="https://github.com/Joshuajaeger/joshuajaeger.github.io/tree/master/assets/pdf/CV_Joshua_Jaeger.pdf" width="700" height="975" type="application/pdf"/>
