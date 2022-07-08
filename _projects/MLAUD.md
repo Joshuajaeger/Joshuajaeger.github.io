@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Machine Learning in Addiction Research
-description: A Machine Learning-Based Approach to Predict Post-Treatment Drinking
-Behavior in Patients with Alcohol Use Disorder
+description: A Machine Learning-Based Approach to Predict Post-Treatment Drinking Behavior in Patients with Alcohol Use Disorder
 img: assets/img/1577053852770.jpeg.jpg
 importance: 1
 category: Signal
