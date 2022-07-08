@@ -7,10 +7,9 @@ inline: false
 > «When I feel tired, I focus on myself, the symptoms subside and the diffuculty decreases, as well as the fear, this fear that stops me in action.»
 
     ---
-Achieving Flow: An Exploratory Investigation of Elite College Athletes and Musicians.
-Antonini Philippe, R., Singer, S. M.,  Jaeger, J., Biasutti, M:, and Sinnett, S.
-Frontiers in psychology 2022.
-https://www.frontiersin.org/articles/10.3389/fpsyg.2022.831508/full
+    Achieving Flow: An Exploratory Investigation of Elite College Athletes and Musicians.
+    Antonini Philippe, R., Singer, S. M.,  Jaeger, J., Biasutti, M:, and Sinnett, S.
+    Frontiers in psychology 2022.
     ---
 
 
@@ -25,4 +24,6 @@ While studies on the characteristics of flow states and their relation to peak p
 These three phases are characterized by several sub-themes contributing to the experience of flow. The function of emotions is crucial, as they play a core role across all three phases and regulate flow over time. The findings provide insights into the phenomenological characteristics of the transition and maintenance of the three proposed phases and the temporal dynamics of flow.
 
 Achieving Flow: An Exploratory Investigation of Elite College Athletes and Musicians. Antonini Philippe, R., Singer, S. M.,  Jaeger, J., Biasutti, M:, and Sinnett, S. Frontiers in psychology 2022
+
+<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2022.831508/full">Full text</a> system).
 
