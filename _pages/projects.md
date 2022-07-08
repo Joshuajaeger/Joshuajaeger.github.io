@@ -5,7 +5,7 @@ permalink: /projects/
 description: Things I do and love.
 nav: true
 nav_order: 1
-display_categories: [Noise, Signal]
+display_categories: [Signal, Noise]
 horizontal: false
 ---
 
