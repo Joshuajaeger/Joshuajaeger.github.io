@@ -17,3 +17,8 @@ The recent integration of machine learning (ML) algorithms in the clinical resea
 
 The proposed project will provide much-needed prognostic models to improve AUD patient care in favor of informed, evidence-based, and individualized treatment planning in clinical settings. This research will further generate insights into identifying critical predictors of post-treatment outcomes using data-driven approaches and provide valuable insights into clinical applications of predictive computational tools across mental disorders in general.
 
+
+
+Adamson, S. J., Sellman, J. D., & Frampton, C. M. A. (2009). Patient predictors of alcohol treatment outcome: A systematic review. Journal of Substance Abuse Treatment, 36(1), 75–86. https://doi.org/10.1016/j.jsat.2008.05.007
+
+Mak, K. K., Lee, K., & Park, C. (2019). Applications of machine learning in addiction studies: A systematic review. Psychiatry Research, 275, 53–60. https://doi.org/10.1016/j.psychres.2019.03.001
