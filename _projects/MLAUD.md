@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning in Addiction Research
 description: A Machine Learning-Based Approach to Predict Post-Treatment Drinking Behavior in Patients with Alcohol Use Disorder
-img: assets/img/1577053852770.jpeg.jpg
+img:
 importance: 1
 category: Signal
 ---
@@ -11,9 +11,9 @@ Efficient clinical practice requires tools that can accurately predict post-trea
 
 The recent integration of machine learning (ML) algorithms in the clinical research domain has demonstrated the efficiency and reliability of ML-based models for various applications, such as research in AUD populations (Mak et al., 2019). However, it remains to be investigated how ML algorithms can be used to improve individual, post-treatment outcome prediction for patients with AUD. The proposed project aims to address this clinically relevant gap through two phases: 
 
-(i) Develop and train ML algorithms to generate valid and reliable post-treatment outcome prediction models for AUD patients’ drinking behavior. Secondary analysis of longitudinal data—agregated from various clinical studies—will be used to develop these computational models. 
+  >   (i) Develop and train ML algorithms to generate valid and reliable post-treatment outcome prediction models for AUD patients’ drinking behavior. Secondary analysis of longitudinal data—agregated from various clinical studies—will be used to develop these computational models. 
 
-(ii) Validate the developed ML models' clinical applicability on a newly collected, independent sample of patients with AUD (N >= 250). 
+  >   (ii) Validate the developed ML models' clinical applicability on a newly collected, independent sample of patients with AUD (N >= 250). 
 
 The proposed project will provide much-needed prognostic models to improve AUD patient care in favor of informed, evidence-based, and individualized treatment planning in clinical settings. This research will further generate insights into identifying critical predictors of post-treatment outcomes using data-driven approaches and provide valuable insights into clinical applications of predictive computational tools across mental disorders in general.
 
