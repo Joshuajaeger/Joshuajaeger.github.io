@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Machine Learning in Addiction Research
+title: MLAUD
 description: A Machine Learning-Based Approach to Predict Post-Treatment Drinking Behavior in Patients with Alcohol Use Disorder
 img:
 importance: 1
