@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Philosophy
-description: Ein sprachphilosophischer Lösungsansatz für das von Bieri verfasste Trilemma
+description: Das Bieri Trilemma—Ein sprachphilosophischer Lösungsansatz
 img:
 importance: 2
 category: Signal

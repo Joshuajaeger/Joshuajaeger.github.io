@@ -1,11 +1,11 @@
 ---
 layout: page
 title: MLAUD
-description: A Machine Learning-Based Approach to Predict Post-Treatment Drinking Behavior in Patients with Alcohol Use Disorder
-img:
+description: Machine Learning in Alcohol Use Disorder Research
 importance: 1
 category: Signal
 ---
+**A Machine Learning-Based Approach to Predict Post-Treatment Drinking Behavior in Patients with Alcohol Use Disorder**
 
 Efficient clinical practice requires tools that can accurately predict post-treatment symptom trajectories, thereby helping patients and clinicians make informed decisions regarding the type, intensity, and treatment duration. Despite a large body of research (Adamson et al., 2009) on associations between specific predictors and post-treatment outcomes in alcohol use disorder (AUD), these inference statistic-based models lack the ability to provide adequate predictions for individual patients. 
 
