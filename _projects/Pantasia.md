@@ -2,7 +2,7 @@
 layout: page
 title: Pantasia
 description: A bunch of beloved people, dreaming about mellow nights and misty days.
-img: assets/img/20210806_222215.jpg
+img: assets/img/GOPR1834.JPG
 importance: 1
 category: Noise
 ---
@@ -82,13 +82,6 @@ The combination of visual smoothness and auditory truth is at the center and is 
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/IMG_7246.jpg" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
-
-<div class="row">
-        <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/GOPR1834.JPG" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
