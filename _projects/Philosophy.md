@@ -7,5 +7,5 @@ importance: 2
 category: Signal
 ---
 
-[Download pdf](https://joshuajaeger.github.io/projects/Philosophy/assets/pdf/Das_Bewusstsein_als_ein_Trilemma_JoshuaJaeger_2022.pdf)
-<embed src="https://joshuajaeger.github.io/projects/Philosophy/assets/pdf/Das_Bewusstsein_als_ein_Trilemma_JoshuaJaeger_2022.pdf" width="700" height="975" type="application/pdf"/>
+[Download pdf](/assets/pdf/Das_Bewusstsein_als_ein_Trilemma_JoshuaJaeger_2022.pdf)
+<embed src="/assets/pdf/Das_Bewusstsein_als_ein_Trilemma_JoshuaJaeger_2022.pdf" width="700" height="975" type="application/pdf"/>
