@@ -8,7 +8,7 @@ categories: Science
 ---
 **Should Knowledge Be Free?**
 
-In the following video, "Medlife Crisis" takes a critical look at current publication practices in the research field (industry!): https://www.youtube.com/watch?v=PriwCi6SzLo
+In the following video, "Medlife Crisis" takes a critical look at current publication practices in the research field (industry!): <a href="https://www.youtube.com/watch?v=PriwCi6SzLo">Click here for video</a>  
 
 Thank you for this engaging input!
 
