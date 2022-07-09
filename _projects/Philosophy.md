@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Philosophy
-description: Das Bieri Trilemma—Ein sprachphilosophischer Lösungsansatz
+description: Linguistic-philosophical trains of thought
 img:
 importance: 2
 category: Signal

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pantasia
-description: A bunch of beloved people, dreaming about mellow nights and misty days.
+description: Dreaming about mellow nights and misty days.
 img: 
 importance: 1
 category: Noise
