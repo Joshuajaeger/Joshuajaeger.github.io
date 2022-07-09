@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Open Science—Should Knowledge Be Free?
+title:  Open Science
 date: 2022-07-09 22:00:00
-description: Release of Lo Fi Album
-tags: Music
-categories: Music
+description: Should Knowledge Be Free?
+tags: Science
+categories: Science
 ---
 **Should Knowledge Be Free?**
 
