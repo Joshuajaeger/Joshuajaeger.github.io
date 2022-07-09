@@ -7,7 +7,7 @@ subtitle:
 profile:
   align: right
   image: prof_pic.jpg
-  address: joshua.jaeger@unibe.ch
+  address: joshua.jaeger@unibe.ch, https://github.com/Joshuajaeger
     
 
 news: true  # includes a list of news items
