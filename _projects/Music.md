@@ -7,7 +7,7 @@ importance: 1
 category: Noise
 ---
 
-**Mobb Deep — G.O.D. Pt. III remix by Shady Flakes**
+**Mobb Deep — G.O.D. Pt. III remix**
 {% include embed-audio.html src="https://joshuajaeger.github.io/assets/audio/mobb_deep_godpt3_shady_flakes_remix.wav" %}
 
 
