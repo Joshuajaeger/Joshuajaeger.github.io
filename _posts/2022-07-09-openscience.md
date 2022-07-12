@@ -6,10 +6,10 @@ description: Should Knowledge Be Free?
 tags: Science
 categories: Science
 ---
-Should Knowledge Be Free?
+**Should Knowledge Be Free?**
 
-In the following video, "Medlife Crisis" takes a critical look at current publication practices in the research field (industry!): <a href="https://www.youtube.com/watch?v=PriwCi6SzLo">Click here for video</a>  
+In the following video, our fellow scolar **Medlife Crisis** takes a critical look at the current practice of scientific publishing: <a href="https://www.youtube.com/watch?v=PriwCi6SzLo">Click here for video</a>  
 
-Thank you for this engaging input!
+Thank you **Medlife Crisis** for this engaging input!
 
 In my opinion, society benefits from openly accessible knowledge. If we oppose the monopolization of knowledge, we all benefit. 
