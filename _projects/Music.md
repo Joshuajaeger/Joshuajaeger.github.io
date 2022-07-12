@@ -6,14 +6,8 @@ img:
 importance: 1
 category: Noise
 ---
-
-**Mobb Deep — G.O.D. Pt. III remix**
-{% include embed-audio.html src="https://joshuajaeger.github.io/assets/audio/mobb_deep_godpt3_shady_flakes_remix.wav" %}
-
-
-
 ***
-**Album 01**
+**Shady Flakes — Album 01**
 Release: 01/06/2022
 
 {% include spotifyAlbum.html id="662qz7hJaw8ZM8bsxhj4l4?si" %}
