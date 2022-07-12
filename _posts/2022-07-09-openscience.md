@@ -8,8 +8,6 @@ categories: Science
 ---
 **Should Knowledge Be Free?**
 
-In the following video, our fellow scolar **Medlife Crisis** takes a critical look at the current practice of scientific publishing: <a href="https://www.youtube.com/watch?v=PriwCi6SzLo">Click here for video</a>  
-
-Thank you **Medlife Crisis** for this engaging input!
+In the linked <a href="https://www.youtube.com/watch?v=PriwCi6SzLo">**video**</a> , our fellow scolar <a href="https://www.youtube.com/channel/UCgRBRE1DUP2w7HTH9j_L4OQ">**Medlife Crisis**</a> takes a critical look at the current practice of scientific publishing: Thank you **Medlife Crisis** for this engaging input!
 
 In my opinion, society benefits from openly accessible knowledge. If we oppose the monopolization of knowledge, we all benefit. 

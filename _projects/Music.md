@@ -15,7 +15,7 @@ Release: 12/07/2022
 {% include embed-audio.html src="https://joshuajaeger.github.io/assets/audio/mobb_deep_godpt3_shady_flakes_remix.wav" %}
 
 ***
-**Interdisciplinary Criminal — So Sophisticated Pleasures — Shady-O Rec. 003**
+**Interdisciplinary Criminal — So Sophisticated Pleasures — Shady-O Rec. 002**
 
 Release: 12/07/2022
 
