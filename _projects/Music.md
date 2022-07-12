@@ -1,14 +1,24 @@
 ---
 layout: page
-title: Shady Flakes
+title: Shady-O Rec.
 description: A beats project for late night sessions
 img:
 importance: 1
 category: Noise
 ---
-***
-**Shady Flakes — Album 01**
-Release: 01/06/2022
 
-{% include spotifyAlbum.html id="662qz7hJaw8ZM8bsxhj4l4?si" %}
+***
+**Mobb Deep — G.O.D. Pt. III — Shady Flakes remix**
+
+Release: 12/07/2022
+
+{% include embed-audio.html src="https://joshuajaeger.github.io/assets/audio/mobb_deep_godpt3_shady_flakes_remix.wav" %}
+
+***
+**Interdisciplinary Criminal — So Sophisticated Pleasures — Shady-O Rec. 003**
+
+Release: 12/07/2022
+
+{% include spotifyAlbum.html id="1l0bVbEAdZEmEOwivNqFSS?si" %}
+
 
