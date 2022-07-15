@@ -7,10 +7,9 @@ importance: 1
 category: Noise
 ---
 ***
+15/07/2022
 
 **Shady Flakes - The Piano Player's Daughter — Shady-O Rec. 003**
-
-Release: 15/07/2022
 
 <div class="row justify-content-sm-">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -22,18 +21,18 @@ Release: 15/07/2022
 </div>
 
 ***
+12/07/2022
+
 **Mobb Deep — G.O.D. Pt. III — Shady Flakes remix**
 
-Release: 12/07/2022
 
 {% include embed-audio.html src="https://joshuajaeger.github.io/assets/audio/mobb_deep_godpt3_shady_flakes_remix.wav" %}
 
 ***
 
+11/07/2022
 
 **Interdisciplinary Criminal — So Sophisticated Pleasures — Shady-O Rec. 002**
-
-Release: 11/07/2022
 
 <div class="row justify-content-sm-">
     <div class="col-sm-6 mt-3 mt-md-0">
