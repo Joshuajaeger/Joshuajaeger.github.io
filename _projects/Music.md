@@ -6,6 +6,19 @@ img:
 importance: 1
 category: Noise
 ---
+***
+
+**Shady Flakes - The Piano Player's Daughter — Shady-O Rec. 003**
+Release: 15/07/2022
+
+<div class="row justify-content-sm-">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Cover3.jpeg" title="" class="img-fluid rounded" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include spotifyAlbum.html id="63TUVyXipyl78LdQo1XM5G?si" %}
+    </div>
+</div>
 
 ***
 **Mobb Deep — G.O.D. Pt. III — Shady Flakes remix**
