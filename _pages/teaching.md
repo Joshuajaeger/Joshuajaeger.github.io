@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching
 description: University of Bern
 nav: true
 nav_order: 2
@@ -17,7 +17,7 @@ We will conclude with a discussion on the quantification and statistical challen
 
 Modalities of the assessment: Students are asked to participate in the organization of a seminar. Secondly, each participant will hold a so-called "3-minute-presentation". In this case, one slide will be used to present a self-selected aspect (deepening, expansion, justified commentary) from the seminar content within 3 minutes. Half of the grade is based on the grade for the seminar presentation and the other half on the grade for the "3-minute-presentation". Oral participation can lead to an increase or decrease of the overall grade.
 
-**Bachelor thesis supervision:**
+**Thesis supervision:**
  
   **(2022)**
 
