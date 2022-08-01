@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Things I do and love—I enjoy creating noise and differentiating key signals from noise.
 nav: true

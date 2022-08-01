@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -17,7 +17,11 @@ social: true  # includes social icons at the bottom of the page
 I believe in the idea of the union between our collective tribal past and the promise of an enlightened and conscientious technological future. Merging the rational with the romantic.
 
 
-I am PhD student at the University of Bern and the Vrije Universiteit Amsterdam. I am fascinated by the field that lies at the intersection of Machine Learning and Clinical Psychology. I aim to understand how addictions are constituted and what variables influence their trajectory. In my research, I investigate addiction disorders, particularly alcohol use disorders, and seek to understand and utilize machine learning to predict symptom progression and systematically identify patterns. When I'm not working on that, I try to use space and time to create noise that is intended to build a sense of cohesion in those around me.
+As a PhD candidate at the University of Bern and the Vrije Universiteit Amsterdam, I seek to implement artificial intelligence in the field of clinical psychology. Together with my supervisors Maria Stein and Mark Hoogendoorn, I aim to understand how addiction disorders are constituted. The emphasis is on systematically identifying patterns of variables that are associated with symptom trajectories. 
+The broad aim of our research is to provide an important step toward predictive analytics and personalized treatment planning in the field of substance use disorders. It is highly important, for both patients and clinicians, to have an accurate prognosis of symptom progression in order to make evidence-based decisions about the course of treatment. In turn, the quality of a patient's life can be significantly improved by having the ability to accurately predict their symptom trajectories. We are  working to enable more accurate predictions to guide day-to-day clinical practice and support treatment-related decisions with data-driven and patient-centered models. Standing on the shoulders of giants, as a first step towards achieving this, we currently examine how state-of-the-art deep learning methods can be used to predict post-treatment relapse in patients with alcohol use disorders.
+
+In the rest of my time, I try to (i) keep a sound mind while thinking about all the questions and inequities that a large portion of the conscious beings on earth have to suffer from; (ii) create a sense of connection and appreciation for life through space and music.
 
 Basically, I like to build things—out of wood, out of sounds, and based on data.
+
 
