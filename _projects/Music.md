@@ -6,6 +6,39 @@ img:
 importance: 1
 category: Noise
 ---
+
+***
+
+**Interdisciplinary Criminal - Curiosity's Death — Shady-O Rec. 005**
+
+15/07/2022
+
+<div class="row justify-content-sm-">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Cover5.jpeg" title="" class="img-fluid rounded" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include spotifyAlbum.html id="7radbMgT79OzhGxmG8Xote?si" %}
+    </div>
+</div>
+
+
+***
+
+**Snackboy Slippers - I Care — Shady-O Rec. 004**
+
+15/07/2022
+
+<div class="row justify-content-sm-">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/Cover4.jpeg" title="" class="img-fluid rounded" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include spotifyAlbum.html id="0wbRGZcyLCVLN4V0LsQe4w?si" %}
+    </div>
+</div>
+
+
 ***
 
 **Shady Flakes - The Piano Player's Daughter — Shady-O Rec. 003**
