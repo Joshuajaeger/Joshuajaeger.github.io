@@ -9,9 +9,37 @@ category: Noise
 
 It provides us with great pleasure to organize festivals and build stages. We try to build a new tiny world together, screw by screw, XLR cable by XLR cable.
 We are interested in creating spaces in which humans feel comfortable to engage and express themselves.
-It is important to us to think holistically and not to base our enjoyment on the suffering of other entities. 
+It is important to us to think holistically and not to base our enjoyment on the suffering of other entities—Yes this is always an <a href="https://www.pnas.org/doi/10.1073/pnas.1519998113">**hedonistic tradoff**</a>! There is probably no pleasure or existence in itself without depriving other entities of at least some resources. Therefore it is important for us to find a conscious approach to this fundamental matter, and to consider our own pleasure in relation to the suffering it causes for others.
 The combination of visual smoothness and auditory truth is at the center and is meant to create a unity that may awaken the feeling of being at home and in an adventure in a foreign world at the same time.
 
+***
+<div class="caption">
+   Waking Life, 2022
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wl4.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wl7.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+      <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wl6.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wl1.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+      <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wl3.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/wl5.jpg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 ***
 <div class="caption">
    Önssn-Svrblönsn, 2021

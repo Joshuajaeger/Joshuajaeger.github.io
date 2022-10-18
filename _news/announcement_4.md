@@ -5,7 +5,7 @@ date: 2022-10-01 22:11:00-0400
 inline: false
 ---
 
-**Mia**: That’s when you know you’ve found somebody special. When you can just shut the fuck up for a minute and comfortably enjoy the silence.
+> **Mia**: That’s when you know you’ve found somebody special. When you can just shut the fuck up for a minute and comfortably enjoy the silence.
   
     ---
     Snackboy Slippers - I Care — Shady-O Rec. 004
