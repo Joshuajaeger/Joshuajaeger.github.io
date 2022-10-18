@@ -20,18 +20,13 @@ The recent integration of machine learning (ML) algorithms in the clinical resea
 The proposed project will provide much-needed prognostic models to improve AUD patient care in favor of informed, evidence-based, and individualized treatment planning in clinical settings. This research will further generate insights into identifying critical predictors of post-treatment outcomes using data-driven approaches and provide valuable insights into clinical applications of predictive computational tools across mental disorders in general.
 
 
-
-Adamson, S. J., Sellman, J. D., & Frampton, C. M. A. (2009). Patient predictors of alcohol treatment outcome: A systematic review. Journal of Substance Abuse Treatment, 36(1), 75–86. https://doi.org/10.1016/j.jsat.2008.05.007
-
-Mak, K. K., Lee, K., & Park, C. (2019). Applications of machine learning in addiction studies: A systematic review. Psychiatry Research, 275, 53–60. https://doi.org/10.1016/j.psychres.2019.03.001
-
 ***
 
-**A mediation analysis on the relationship between antidepressants, depressive symptoms, and alcohol use disorder. **
+**A mediation analysis on the relationship between antidepressants, depressive symptoms, and alcohol use disorder**
 
-**Background**: Antidepressants (AD) are commonly prescribed to treat depressive symptoms in patients with alcohol use disorder (AUD), although the evidence of their effect on alcohol use is inconsistent. It is suspected that, besides the direct effects of ADs on alcohol use, the effects are partially related to their modulation of depressive symptoms. In total, these two pathways may mutually mask each other.
+Background: Antidepressants (AD) are commonly prescribed to treat depressive symptoms in patients with alcohol use disorder (AUD), although the evidence of their effect on alcohol use is inconsistent. It is suspected that, besides the direct effects of ADs on alcohol use, the effects are partially related to their modulation of depressive symptoms. In total, these two pathways may mutually mask each other.
 
-**Methods**: Observations of 153 detoxified, recently abstinent patients (18-60 years of age; 27.5% female) with AUD attending a twelve-week residential treatment program were included in the study. In a mediation model the direct and by altered depressive symptoms mediated effect, of ADs on alcohol use was estimated. Change in alcohol use was assessed by the percentage of days abstinent (PDA) 3-month before and after residential treatment. Depressive symptoms were assessed with the Brief Symptom Checklist (BSCL) at admission and discharge from treatment.
+Methods: Observations of 153 detoxified, recently abstinent patients (18-60 years of age; 27.5% female) with AUD attending a twelve-week residential treatment program were included in the study. In a mediation model the direct and by altered depressive symptoms mediated effect, of ADs on alcohol use was estimated. Change in alcohol use was assessed by the percentage of days abstinent (PDA) 3-month before and after residential treatment. Depressive symptoms were assessed with the Brief Symptom Checklist (BSCL) at admission and discharge from treatment.
 
 
 
