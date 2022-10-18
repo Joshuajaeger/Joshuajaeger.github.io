@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Album release: Shady Flakes - The Piano Player's Daughter"
-date: 2022-10-01 22:11:00-0400
+title: "Album release: Snackboy Slippers - I Care"
+date: 2022-08-01 22:11:00-0400
 inline: false
 ---
 

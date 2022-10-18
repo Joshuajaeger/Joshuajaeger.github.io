@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Album release: Shady Flakes - The Piano Player's Daughter"
-date: 2022-07-15 22:11:00-0400
+title: "Album release: Interdisciplinary Criminal - Curiosity's Death "
+date: 2022-08-02 22:11:00-0400
 inline: false
 ---
 > No man, they got the metric system. They wouldn’t know what the fuck a Quarter Pounder is—Then what do they call it?—They call it a Royale with cheese.
