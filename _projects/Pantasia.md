@@ -18,28 +18,28 @@ The combination of visual smoothness and auditory truth is at the center and is 
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wl4.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wl_4.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wl7.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wl_7.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
       <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wl8.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wl_8.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wl5.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wl_5.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
       <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wl3.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wl_3.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="row">
      <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/wl6.jpg" title="" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/wl_6.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
