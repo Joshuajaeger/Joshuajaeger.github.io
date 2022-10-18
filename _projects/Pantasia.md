@@ -8,9 +8,11 @@ category: Noise
 ---
 
 It provides us with great pleasure to organize festivals and build stages. We try to build a new tiny world together, screw by screw, XLR cable by XLR cable.
-We are interested in creating spaces in which humans feel comfortable to engage and express themselves.
-It is important to us to think holistically and not to base our enjoyment on the suffering of other entities—Yes this is always an <a href="https://www.pnas.org/doi/10.1073/pnas.1519998113">**hedonistic tradoff**</a>! There is probably no pleasure or existence in itself without depriving other entities of at least some resources. Therefore it is important for us to find a conscious approach to this fundamental matter, and to consider our own pleasure in relation to the suffering it causes for others.
-The combination of visual smoothness and auditory truth is at the center and is meant to create a unity that may awaken the feeling of being at home and in an adventure in a foreign world at the same time.
+We are interested in creating spaces in which humans feel comfortable to engage and express themselves. The combination of visual smoothness and auditory truth is at the center and is meant to create a unity that may awaken the feeling of being at home and in an adventure in a foreign world at the same time.
+
+
+It is important to us to think holistically and not to base our enjoyment on the suffering of other entities—Yes this is always an <a href="https://www.pnas.org/doi/10.1073/pnas.1519998113">**hedonistic tradoff**</a>! There is probably no pleasure or Life without depriving other entities of at least some resources. Therefore it is important for us to find a conscious approach to this fundamental matter, and to consider our own pleasure in relation to the suffering it causes for others.
+
 
 ***
 <div class="caption">
