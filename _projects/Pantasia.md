@@ -40,6 +40,7 @@ The combination of visual smoothness and auditory truth is at the center and is 
         {% include figure.html path="assets/img/wl5.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 ***
 <div class="caption">
    Önssn-Svrblönsn, 2021
