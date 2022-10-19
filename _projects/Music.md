@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Shady-O Rec.
+title: Sounds
 description: A beats project for late night sessions
 img:
 importance: 1
@@ -11,7 +11,7 @@ category: Noise
 
 **Interdisciplinary Criminal - Curiosity's Death — Shady-O Rec. 005**
 
-15/07/2022
+02/08/2022
 
 <div class="row justify-content-sm-">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -27,7 +27,7 @@ category: Noise
 
 **Snackboy Slippers - I Care — Shady-O Rec. 004**
 
-15/07/2022
+01/08/2022
 
 <div class="row justify-content-sm-">
     <div class="col-sm-6 mt-3 mt-md-0">
