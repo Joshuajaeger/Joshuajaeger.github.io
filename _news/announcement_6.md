@@ -13,7 +13,7 @@ inline: false
     ---
 
 <a href="https://doi.org/10.1111/add.16104">DOI: 0.1111/add.16104</a>
-(I can' t believe it but the article is behind a paywall. Just message me and I'll send it.)
+(So sorry for the fkn paywall. Just message me and I'll send it.)
 
 
 **Aims**
