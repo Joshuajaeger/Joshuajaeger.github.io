@@ -9,19 +9,19 @@ categories: Science
 **What makes scientific research data challenging for large language models (e.g., GPT-3)?**
 
 
-There are several factors that can make scientific research data challenging for large language models like GPT-3, including those related to the complexity and specificity of the data itself as well as broader issues such as the fact that many research articles are behind a paywall:
+There are several factors that can make scientific research data challenging for large language models like GPT-3, including those related to the complexity and specificity of the data itself as well as broader issues:
 
-Complexity: Scientific research often involves complex concepts and technical language that may be difficult for a language model to understand and accurately represent.
+**Complexity:** Scientific research often involves complex concepts and technical language that may be difficult for a language model to understand and accurately represent.
 
-Ambiguity: Scientific research often involves multiple hypotheses and interpretations, which can be difficult for a language model to disambiguate and choose the most appropriate response.
+**Ambiguity**: Scientific research often involves multiple hypotheses and interpretations, which can be difficult for a language model to disambiguate and choose the most appropriate response.
 
-Context-dependence: The meaning of scientific research data can be highly dependent on the context in which it is presented, and it can be challenging for a language model to accurately capture and incorporate this context.
+**Context-dependence**: The meaning of scientific research data can be highly dependent on the context in which it is presented, and it can be challenging for a language model to accurately capture and incorporate this context.
 
-Data quality: The quality and relevance of scientific research data can vary significantly, and it can be challenging for a language model to accurately evaluate and incorporate data from multiple sources.
+**Data quality:** The quality and relevance of scientific research data can vary significantly, and it can be challenging for a language model to accurately evaluate and incorporate data from multiple sources.
 
-Domain expertise: Scientific research often requires a deep understanding of specific domains and disciplines, which may be beyond the scope of a general-purpose language model like GPT-3.
+**Domain expertise**: Scientific research often requires a deep understanding of specific domains and disciplines, which may be beyond the scope of a general-purpose language model like GPT-3.
 
-Accessibility: Many scientific research articles are behind a paywall, which can make it difficult for language models to access and incorporate this data into their training and inference processes.
+**Accessibility**: Many scientific research articles are behind a paywall, which can make it difficult for language models to access and incorporate this data into their training and inference processes.
 
 Overall, the complexity and specificity of scientific research data, as well as issues related to accessibility, can make it challenging for large language models to accurately understand and generate coherent responses, but the last point of *Accessibility* may be the most important and one, we as a community deeply interested in the scientific process, could and should tackle! [see my other article regarding open science and the typical, fkn capitalistic, privileg-based publishing processe of  rysearch](https://joshuajaeger.github.io/blog/2022/openscience/) 
 

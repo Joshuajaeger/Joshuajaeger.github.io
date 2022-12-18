@@ -8,7 +8,7 @@ categories: Science
 ---
 **Should Knowledge Be Free? And why the F do we pay Elsevier (and of course other publishers!) so much money?**
 
-*Written in co-authorship with GPT-3*
+
 
 In my opinion, society benefits from openly accessible knowledge. If we oppose the monopolization of knowledge, we all benefit: 
 It is certainly true that society benefits from openly accessible knowledge, as it allows for greater transparency, collaboration, and the sharing of ideas and insights. Monopolization of knowledge, on the other hand, can create barriers to access and hinder the free flow of information and ideas.
@@ -28,5 +28,8 @@ There are several ways in which the current practice of scientific publishing ca
 **Alternative forms of publishing**: Alternative forms of publishing, such as open notebooks and blogs, can provide additional ways for researchers to share their work and engage with the wider community.
 
 By adopting these and other measures, it is possible to increase the accessibility of scientific knowledge and promote the free flow of ideas and insights within the research community and beyond.
+
+
+*Written in co-authorship with GPT-3*
 
 
