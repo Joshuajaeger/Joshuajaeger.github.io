@@ -12,7 +12,7 @@ nav_order: 7
 
 **Effective altruism** is a philosophy and social movement that aims to use evidence and reason to determine the most effective ways to benefit others, and to take action based on that evidence. The goal of effective altruism is to do the most good that can be done, given the limited resources available.
 
-One way that individuals can get involved in effective altruism is through the Giving What We Can (GWWC) 10% Giving Pledge [**Giving What We Can (GWWC) 10% Giving Pledge**](https://www.givingwhatwecan.org/pledge). This is a commitment by individuals to donate at least 10% of their income to effective charitable causes. GWWC is a nonprofit organization that encourages and supports this pledge, and provides resources and guidance to help people make informed giving decisions.
+One way that individuals can get involved in effective altruism is through the Giving What We Can (GWWC) 10% Giving Pledge [**_Giving What We Can (GWWC) 10% Giving Pledge_**](https://www.givingwhatwecan.org/pledge). This is a commitment by individuals to donate at least 10% of their income to effective charitable causes. GWWC is a nonprofit organization that encourages and supports this pledge, and provides resources and guidance to help people make informed giving decisions.
 
 The 10% Giving Pledge is inspired by the principles of effective altruism, which emphasize the importance of maximizing the impact of charitable donations. By pledging to donate a portion of their income, individuals can help to make a meaningful difference in the world and contribute to a more positive future for all.
 
@@ -20,6 +20,7 @@ While taking the 10% Giving Pledge is a personal decision, it can be a powerful 
 
 One should be aware that this decision is a matter of elevated privilege. The right and well-being of our planet and the individuals living on it should not be subject to the personal preferences and decisions of a few privileged individuals. However, under the given circumstances, it seems to me unavoidable. 
 
+---------
 
 [**The Science in Exile Declaration—Supporting at-risk, displaced, and refugee scientists—A call to action**](https://www.interacademies.org/publication/science-exile-declaration-supporting-risk-displaced-and-refugee-scientists-call-action) outlines key commitments necessary at global level for both immediate and long-term support and protection to scholars and scientists who are at-risk, displaced or refugees, so as to build a better future for them, science and society at large.
 
@@ -35,6 +36,6 @@ One argument in favor of sharing information about good deeds is that it can ins
 
 **In reference to Aldous Huxley:**
 
-"I am almost embarrassed. But after all the decades of searching, after all the scientific, spiritual, and psychological paths I have encountered, after all the numerous great masters I have been privileged to meet, I have come to the following conclusion: The most powerful and beneficial practice is probably to encounter oneself, other human and conscious beings, and the entire universe in a Humble and benign way."
+> «I am almost embarrassed. But after all the decades of searching, after all the scientific, spiritual, and psychological paths I have encountered, after all the numerous great masters I have been privileged to meet, I have come to the following conclusion: The most powerful and beneficial practice is probably to encounter oneself, other human and conscious beings, and the entire universe in a Humble and benign way.»
 
 
