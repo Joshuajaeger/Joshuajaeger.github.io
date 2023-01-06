@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: A careful and curious investigation of a particular matter in which materials and sources are systematically examined and intertwined with new ideas and predictions to arrive at a tentative assumption of a probabilistic hypothesis about the world.
+description: Systematically examining a matter to arrive at a tentative assumption of a probabilistic hypothesis.
 importance: 1
 category: Signal
 ---
