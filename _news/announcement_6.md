@@ -13,8 +13,6 @@ inline: false
     ---
 
 <a href="https://doi.org/10.1111/add.16104">DOI: 0.1111/add.16104</a>
-(So sorry for the fkn paywall. Just message me and I'll send it.)
-
 
 **Aims**
 For the first time in a clinical sample with alcohol use disorder (AUD), this study compared the effects of two versions of alcohol-specific inhibition training (Alc-IT) on drinking outcomes and on experimental parameters assessing two possible working mechanisms: stimulus devaluation and inhibitory enhancement.

@@ -9,20 +9,17 @@ nav_order: 7
 
 > «Have we taken something seriously that we should have just played with, or was it the other way around?»
 
+The world is constantly evolving and facing new challenges. By working together, we have the power to make positive changes and help create a future in which as many conscious beings feel well. However, it's also important that we recognize and address the potential risks that come with these changes in order to create a safer and more sustainable world.
 
-**Effective altruism** is a philosophy and social movement that aims to use evidence and reason to determine the most effective ways to benefit others, and to take action based on that evidence. The goal of effective altruism is to do the most good that can be done, given the limited resources available.
+**Effective altruism** is a philosophy and social movement that aims to use evidence and reason to determine the most effective ways of realocating resources on a personal and group level, and to take action based on that evidence. Its is a way of thinking about how to use time, money, and other resources to provide support in the most effective way. It involves using evidence and careful analysis to figure out the best ways to enable a positive difference, given the limited resources we have available.
 
-One way that individuals can get involved in effective altruism is through the Giving What We Can (GWWC) 10% Giving Pledge [**_Giving What We Can (GWWC) 10% Giving Pledge_**](https://www.givingwhatwecan.org/pledge). This is a commitment by individuals to donate at least 10% of their income to effective charitable causes. GWWC is a nonprofit organization that encourages and supports this pledge, and provides resources and guidance to help people make informed giving decisions.
+One way that individuals can get involved in effective altruism is through the [**_Giving Pledge_**](https://www.givingwhatwecan.org/pledge). This is a commitment by individuals to donate at least 10% of their income to effective charitable causes. The Giving Pledge is inspired by the principles of effective altruism, which emphasize the importance of maximizing the impact of charitable donations. 
 
-The 10% Giving Pledge is inspired by the principles of effective altruism, which emphasize the importance of maximizing the impact of charitable donations. By pledging to donate a portion of their income, individuals can help to make a meaningful difference in the world and contribute to a more positive future for all.
-
-While taking the 10% Giving Pledge is a personal decision, it can be a powerful way to make a difference and to support effective charitable causes. GWWC provides a wealth of information and resources to help individuals learn about effective giving and make informed decisions about their charitable donations.
-
-One should be aware that this decision is a matter of elevated privilege. The right and well-being of our planet and the individuals living on it should not be subject to the personal preferences and decisions of a few privileged individuals. However, under the given circumstances, it seems to me unavoidable. 
+While taking the Giving Pledge is a personal decision, it can be a powerful way to make a difference and to support effective charitable causes. One should be aware that this decision is a matter of elevated privilege. The right and well-being of our planet and the individuals living on it should not be subject to the personal preferences and decisions of a few privileged individuals who have more resources than they need. However, under the given circumstances, the political and social system, this seems to be unavoidable.
 
 ---------
 
-[**The Science in Exile Declaration—Supporting at-risk, displaced, and refugee scientists—A call to action**](https://www.interacademies.org/publication/science-exile-declaration-supporting-risk-displaced-and-refugee-scientists-call-action) outlines key commitments necessary at global level for both immediate and long-term support and protection to scholars and scientists who are at-risk, displaced or refugees, so as to build a better future for them, science and society at large.
+[**The Science in Exile Declaration—supporting at-risk, displaced, and refugee scientists—A call to action**](https://www.interacademies.org/publication/science-exile-declaration-supporting-risk-displaced-and-refugee-scientists-call-action) outlines key commitments necessary at global level for both immediate and long-term support and protection to scholars and scientists who are at-risk, displaced or refugees, so as to build a better future for them, science and society at large.
 
 If you would like to become active, you might consider [**_signing the declaration_**](https://forms.office.com/pages/responsepage.aspx?id=Uq5PHbM5-kuwswIpVrERlLxCIrq-PktOpQTRI0lHzktUNlJPNEtNVzgzWThYWEFRS0NGQkFPMlFMRi4u).
 
