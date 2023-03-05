@@ -6,8 +6,6 @@ importance: 1
 category: Signal
 ---
 
-# Welcome to the proposed answer to the myth of the myth of the 10X Assistance.
-
-The "myth of the myth of the 10X" refers to the idea that there is a widespread belief in the (tech) industry that some developers are 10 times more productive than others. 
+The concept of the "myth of the myth of the 10X" pertains to the commonly held notion in the technology industry that certain developers are 10 times more efficient than their peers. Using GPT-3, this tool seeks to bridge this productivity divide and enhance the capabilities of all individuals to achieve a similar level of excellence.
 
 <iframe src="https://joshuajaeger-10x-assistance-mythofthe10x-igsxlt.streamlit.app/?embedded=true" width="100%" height="800px" frameborder="0"></iframe>
