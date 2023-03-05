@@ -10,4 +10,4 @@ category: Signal
 
 The "myth of the myth of the 10X" refers to the idea that there is a widespread belief in the (tech) industry that some developers are 10 times more productive than others. 
 
-<iframe src="https://joshuajaeger-10x-assistance-mythofthe10x-igsxlt.streamlit.app/embedded=true" width="100%" height="800px" frameborder="0"></iframe>
+<iframe src="https://joshuajaeger-10x-assistance-mythofthe10x-igsxlt.streamlit.app/?embedded=true" width="100%" height="800px" frameborder="0"></iframe>
