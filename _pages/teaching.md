@@ -2,12 +2,13 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: University of Bern
+description: University of Bern & Vrije Universiteit Amsterdam
 nav: true
 nav_order: 2
 ---
-**Alcohol use disorders, selected and innovative aspects of treatment:**
+**Seminar:**
 
+**Alcohol use disorders, selected and innovative aspects of treatment:**
 Conducted in collaboration with PD Dr. Maria Stein
 
 Alcohol use disorder (AUD) is one of the most common mental disorders, immensely affecting the quality of life of those affected and their families, and leading to significant societal costs. With substantial relapse rates despite specialized treatment programs, research and practice continue to seek innovative ways to improve therapeutic outcomes.
@@ -18,7 +19,13 @@ We will conclude with a discussion on the quantification and statistical challen
 Modalities of the assessment: Students are asked to participate in the organization of a seminar. Secondly, each participant will hold a so-called "3-minute-presentation". In this case, one slide will be used to present a self-selected aspect (deepening, expansion, justified commentary) from the seminar content within 3 minutes. Half of the grade is based on the grade for the seminar presentation and the other half on the grade for the "3-minute-presentation". Oral participation can lead to an increase or decrease of the overall grade.
 
 **Thesis supervision:**
- 
+
+  **(2023)**
+
+Predicting Dropout Rates from Online Treatment for Alcohol Use Disorder: An Analysis of Predictors
+Online treatment programs for AUD have emerged as an accessible option for individuals seeking treatment. However, dropout rates from these programs remain high, which limits their effectiveness. Identifying predictors of dropout rates from online treatment for AUD can inform the development of targeted interventions to reduce dropout rates and improve treatment outcomes.
+The primary objective of this thesis is to predict dropout rates from an online treatment program for AUD using various predictors. 
+
   **(2022)**
 
 **How to measure Addiction?**
