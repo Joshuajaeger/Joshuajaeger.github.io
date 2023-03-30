@@ -6,6 +6,9 @@ description: University of Bern & Vrije Universiteit Amsterdam
 nav: true
 nav_order: 2
 ---
+
+> "I can resist everything but temptation." -- Oscar Wilde
+
 **Seminar:**
 
 **Alcohol use disorders, selected and innovative aspects of treatment:**
